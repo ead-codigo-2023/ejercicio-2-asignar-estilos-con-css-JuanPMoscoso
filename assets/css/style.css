@@ -25,12 +25,11 @@ color: aliceblue;
 border-radius: 8px
 }
 .hero {
-    padding: 35px 50px;
     padding-top: 30px;
     padding-right: 450px;
     padding-left: 50px;
     padding-bottom: 30px;
-    background-color: #F4F6F5;
+    background-color: #f481ffa4;
     background-image: url(../Imagenes/image.jpg);
     background-repeat: no-repeat;
     background-position: bottom right;
