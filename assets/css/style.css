@@ -1,0 +1,38 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F4F6F5;
+}
+h1 {
+    color: #000;
+font-family: Poppins;
+font-size: 72px;
+font-weight: 900;
+line-height: 90px; /* 125% */
+text-transform: uppercase;
+padding-right: 70%;
+}
+p {;
+    font-size: 24px;
+    font-weight: 400
+    
+}
+a {;
+    display: inline-flex;
+padding: 12px 22px;
+gap: 10px;
+background-color: black;
+color: aliceblue;
+border-radius: 8px
+}
+.hero {
+    padding: 35px 50px;
+    padding-top: 30px;
+    padding-right: 450px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-color: #F4F6F5;
+    background-image: url(../Imagenes/image.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    border-radius: 40px;
+}
